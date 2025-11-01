@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-file MD033 MD045 -->
-# Cloudflare 临时邮箱 - 免费搭建临时邮件服务
+# Cloudflare Temporary email address - Free temporary email service setup
 
 <p align="center">
   <a href="https://temp-mail-docs.awsl.uk" target="_blank">
@@ -29,18 +29,18 @@
 </p>
 
 <p align="center">
-  <a href="README.md">🇨🇳 中文文档</a> |
+  <a href="README.md">🇨🇳 Chinese documents</a> |
   <a href="README_EN.md">🇺🇸 English Document</a>
 </p>
 
-> 本项目仅供学习和个人用途，请勿将其用于任何违法行为，否则后果自负。
+> This project is for learning and personal use only，Please do not use it for any illegal activities，Otherwise, you will bear the consequences.
 
-**🎉 一个功能完整的临时邮箱服务！**
+**🎉 A fully functional temporary email service！**
 
-- 🆓 **完全免费** - 基于 Cloudflare 免费服务构建，零成本运行
-- ⚡ **高性能** - Rust WASM 邮件解析，响应速度极快
-- 🎨 **现代化界面** - 响应式设计，支持多语言，操作简便
-- 🔐 **地址密码** - 支持为邮箱地址设置独立密码，增强安全性 (通过 `ENABLE_ADDRESS_PASSWORD` 启用)
+- 🆓 **Completely free** - Built on Cloudflare free service，Zero-cost operation
+- ⚡ **high performance** - Rust WASM email parsing，Extremely fast response speed
+- 🎨 **Modernized interface** - responsive design，Supports multiple languages and is easy to use.
+- 🔐 **Address Password** - Supports setting independent passwords for email addresses，Enhance security (pass `ENABLE_ADDRESS_PASSWORD` Enable)
 
 ## 📚 部署文档 - 快速开始
 
